@@ -1,4 +1,4 @@
-# Simple Book CRUD App
+# Simple Coffee Shop Web App
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/gregorius.ivan1/simple-book-crud-app.git
+git remote add origin https://gitlab.com/gregorius.ivan1/CoffeeShopApp.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/gregorius.ivan1/simple-book-crud-app/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/gregorius.ivan1/CoffeeShopApp/-/settings/integrations)
 
 ## Collaborate with your team
 
